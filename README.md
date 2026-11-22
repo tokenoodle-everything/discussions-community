@@ -1,5 +1,5 @@
 # discussions-community
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://paypal.me/tokenoodle)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W6X42B1NF9)
 
 An empty repo for discussions.
